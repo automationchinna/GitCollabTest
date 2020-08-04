@@ -1,3 +1,7 @@
 praneeth1557 added this line
 2nd line by chinna
+<<<<<<< HEAD
+3rd line by praneeth
+=======
 3rd line by chinna
+>>>>>>> 60f09be12290afb59c9c9a6f3e9dedbd6d4dd28e
